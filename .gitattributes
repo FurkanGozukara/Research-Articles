@@ -43,3 +43,4 @@ Focused_Web_Crawler_Development_Challenges_Eccrawler.pdf filter=lfs diff=lfs mer
 Letter_and_Person_Recognition_in_Freeform_Air-Writing_Using_Machine_Learning_Algorithms.pdf filter=lfs diff=lfs merge=lfs -text
 New_Metrics_For_Clustering_Of_Identical_Products_Over_Imperfect_Data.pdf filter=lfs diff=lfs merge=lfs -text
 Product_Search_Engine_Using_Product_Name_Recognition_And_Sentiment_Analysis.pdf filter=lfs diff=lfs merge=lfs -text
+A_Product_Search_Engine_Supporting_Best_Product_Queries.pdf filter=lfs diff=lfs merge=lfs -text
