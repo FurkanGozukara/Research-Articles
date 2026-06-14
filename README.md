@@ -1,6 +1,6 @@
 # Research Articles by Furkan Gözükara
 
-A curated collection of research articles and theses by **Furkan Gözükara** and collaborators, spanning **2012-2025**.
+A curated collection of research articles and theses by **Furkan Gözükara** and collaborators, spanning **2012-2026**.
 
 - Furkan Gözükara on X : https://x.com/FurkanGozukara
 - Furkan Gözükara on Google Scholar : https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=_2_KAUsAAAAJ
@@ -10,7 +10,7 @@ A curated collection of research articles and theses by **Furkan Gözükara** an
 
 ## At a Glance
 
-- **10 works** across journal articles, an MSc thesis, and a PhD thesis
+- **11 works** across journal articles, an MSc thesis, and a PhD thesis
 - Core themes: **product search**, **record linkage**, **focused web crawling**, **sentiment analysis**, **cyber forensics**, and **human-computer interaction**
 - Includes both **method papers** and **full-system theses** that connect crawling, normalization, matching, ranking, and evaluation
 
@@ -27,6 +27,7 @@ A curated collection of research articles and theses by **Furkan Gözükara** an
 
 | Year | Title | PDF | Type | Venue / Source | Focus |
 |---|---|---|---|---|---|
+| 2026 | [Implementation of Modified Effective Butterfly Optimizer in Solving Multi-Objective Pareto Optimal Power Flow Problem with Renewable Uncertainties](https://huggingface.co/MonsterMMORPG/ResearchArticles/blob/main/Implementation_of_Modified_Effective_Butterfly_Optimizer_in_Solving_Multi-Objective_Pareto_Optimal_Power_Flow_Problem.pdf) | [PDF](https://huggingface.co/MonsterMMORPG/ResearchArticles/resolve/main/Implementation_of_Modified_Effective_Butterfly_Optimizer_in_Solving_Multi-Objective_Pareto_Optimal_Power_Flow_Problem.pdf) | Journal article | Biomimetics, Vol. 11, No. 6, Article 418 | Multi-objective optimal power flow, Pareto optimization |
 | 2025 | [Letter and Person Recognition in Freeform Air-Writing Using Machine Learning Algorithms](https://huggingface.co/MonsterMMORPG/ResearchArticles/blob/main/Letter_and_Person_Recognition_in_Freeform_Air-Writing_Using_Machine_Learning_Algorithms.pdf) | [PDF](https://huggingface.co/MonsterMMORPG/ResearchArticles/resolve/main/Letter_and_Person_Recognition_in_Freeform_Air-Writing_Using_Machine_Learning_Algorithms.pdf) | Journal article | IEEE Access, Vol. 13 | Air-writing, person recognition |
 | 2021 | [An Incremental Hierarchical Clustering Based System For Record Linkage In E-Commerce Domain](https://huggingface.co/MonsterMMORPG/ResearchArticles/blob/main/An_Incremental_Hierarchical_Clustering_Based_System_For_Record_Linkage_In_E-Commerce_Domain.pdf) | [PDF](https://huggingface.co/MonsterMMORPG/ResearchArticles/resolve/main/An_Incremental_Hierarchical_Clustering_Based_System_For_Record_Linkage_In_E-Commerce_Domain.pdf) | Journal article | The Computer Journal *(uploaded PDF is an advance-article version)* | Record linkage, product matching |
 | 2021 | [Challenges and Possible Severe Legal Consequences of Application Users Identification from CNG-Logs](https://huggingface.co/MonsterMMORPG/ResearchArticles/blob/main/Challenges_And_Possible_Severe_Legal_Consequences_Of_Application_Users_Identification_From_Cng-Logs.pdf) | [PDF](https://huggingface.co/MonsterMMORPG/ResearchArticles/resolve/main/Challenges_And_Possible_Severe_Legal_Consequences_Of_Application_Users_Identification_From_Cng-Logs.pdf) | Journal article | Forensic Science International: Digital Investigation, Vol. 39 | CGNAT / cyber forensics |
@@ -39,6 +40,16 @@ A curated collection of research articles and theses by **Furkan Gözükara** an
 | 2012 | [Fiyat Karşılaştırmalı Ürün Arama Motoru Geliştirme](https://huggingface.co/MonsterMMORPG/ResearchArticles/blob/main/Fiyat_Kar%C5%9F%C4%B1la%C5%9Ft%C4%B1rmal%C4%B1_%C3%9Cr%C3%BCn_Arama_Motoru_Geli%C5%9Ftirme.pdf) | [PDF](https://huggingface.co/MonsterMMORPG/ResearchArticles/resolve/main/Fiyat_Kar%C5%9F%C4%B1la%C5%9Ft%C4%B1rmal%C4%B1_%C3%9Cr%C3%BCn_Arama_Motoru_Geli%C5%9Ftirme.pdf) | MSc thesis | Mersin University | Price-comparison search engine |
 
 ## Detailed Timeline
+
+<a id="2026-mebo-moopf"></a>
+
+### 2026 - [Implementation of Modified Effective Butterfly Optimizer in Solving Multi-Objective Pareto Optimal Power Flow Problem with Renewable Uncertainties](https://huggingface.co/MonsterMMORPG/ResearchArticles/resolve/main/Implementation_of_Modified_Effective_Butterfly_Optimizer_in_Solving_Multi-Objective_Pareto_Optimal_Power_Flow_Problem.pdf)
+
+**Type:** Journal article  
+**Venue:** Biomimetics, Vol. 11, No. 6, Article 418  
+**Focus:** Multi-objective optimal power flow, Pareto optimization, renewable uncertainty
+
+This paper adapts the **Modified Effective Butterfly Optimizer (MEBO)** to solve **multi-objective optimal power flow (MOOPF)** problems with renewable uncertainties. It uses optimized weighting, multiple Pareto archives, and compromise-solution metrics, evaluates the method on **IEEE 30- and 57-bus systems**, and reports strong results for objective combinations such as **cost-loss**, **cost-voltage**, **cost-emission**, and **emission-loss**.
 
 <a id="2025-air-writing"></a>
 
