@@ -1,6 +1,6 @@
 # Research Articles by Furkan Gözükara
 
-A curated collection of research by Furkan Gözükara and collaborators, covering product search, record linkage, focused crawling, sentiment analysis, cyber forensics, human-computer interaction, and power-system optimization.
+A curated collection of research by Furkan Gözükara and collaborators, covering product search, record linkage, focused crawling, sentiment analysis, cyber forensics, and human-computer interaction.
 
 Repository: [MonsterMMORPG/ResearchArticles](https://huggingface.co/MonsterMMORPG/ResearchArticles/tree/main)
 
@@ -12,7 +12,6 @@ Repository: [MonsterMMORPG/ResearchArticles](https://huggingface.co/MonsterMMORP
 - Sentiment analysis for Turkish and English text
 - Cyber forensics and evidentiary risk analysis
 - Air-writing recognition and human-computer interaction
-- Power-system optimization, Pareto analysis, and bio-inspired metaheuristics
 
 ## Timeline
 
