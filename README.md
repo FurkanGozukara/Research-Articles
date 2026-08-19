@@ -11,6 +11,7 @@ A curated collection of research articles and theses by **Furkan Gözükara** an
 ## At a Glance
 
 - **11 works** across journal articles, an MSc thesis, and a PhD thesis
+- **2 conference collections** with event-specific folders for papers, proceedings, certificates, programs, and participant records
 - Core themes: **product search**, **record linkage**, **focused web crawling**, **sentiment analysis**, **cyber forensics**, and **human-computer interaction**
 - Includes both **method papers** and **full-system theses** that connect crawling, normalization, matching, ranking, and evaluation
 
@@ -34,10 +35,39 @@ A curated collection of research articles and theses by **Furkan Gözükara** an
 | 2017 | [Efficient Feature Selection for Product Labeling over Unstructured Data](https://huggingface.co/MonsterMMORPG/ResearchArticles/blob/main/Efficient_Feature_Selection_For_Product_Labeling_Over_Unstructured_Data.pdf) | [PDF](https://huggingface.co/MonsterMMORPG/ResearchArticles/resolve/main/Efficient_Feature_Selection_For_Product_Labeling_Over_Unstructured_Data.pdf) / [Drive](https://drive.google.com/file/d/10I2yWu2J7M-f5MM6PQtecUpGucKDOEJL/view?usp=sharing) | Journal article | IJACSA, Vol. 8, No. 7 | Feature selection, clustering |
 | 2017 | [Focused Web Crawler Development Challenges: ECCrawler](https://huggingface.co/MonsterMMORPG/ResearchArticles/blob/main/Focused_Web_Crawler_Development_Challenges_Eccrawler.pdf) | [PDF](https://huggingface.co/MonsterMMORPG/ResearchArticles/resolve/main/Focused_Web_Crawler_Development_Challenges_Eccrawler.pdf) / [Drive](https://drive.google.com/file/d/11puHX-mtKL5UQjAnLJf7C04IE6uADfyl/view?usp=sharing) | Journal article | International Journal of Computer Science and Engineering, Vol. 6, Issue 1 | Focused crawling, systems engineering |
 | 2016 | [An Experimental Investigation of Document Vector Computation Methods for Sentiment Analysis of Turkish and English Reviews](https://huggingface.co/MonsterMMORPG/ResearchArticles/blob/main/An_Experimental_Investigation_Of_Document_Vector_Computation_Methods_For_Sentiment_Analysis_Of_Turkish_And_English_Reviews.pdf) | [PDF](https://huggingface.co/MonsterMMORPG/ResearchArticles/resolve/main/An_Experimental_Investigation_Of_Document_Vector_Computation_Methods_For_Sentiment_Analysis_Of_Turkish_And_English_Reviews.pdf) / [Drive](https://drive.google.com/file/d/1Av0DHK7uS91_H7jayILcjUTk8Z31on3B/view?usp=sharing) | Journal article | Çukurova University Journal of the Faculty of Engineering and Architecture, Vol. 31, No. 2 | Sentiment analysis |
-| 2016 | [A Product Search Engine Supporting "Best Product" Queries](https://huggingface.co/MonsterMMORPG/ResearchArticles/blob/main/A_Product_Search_Engine_Supporting_Best_Product_Queries.pdf) | [PDF](https://huggingface.co/MonsterMMORPG/ResearchArticles/resolve/main/A_Product_Search_Engine_Supporting_Best_Product_Queries.pdf) / [Drive](https://drive.google.com/file/d/1HZs_v3san-3in88UKmAnk5Tw0wbhTscS/view?usp=sharing) | Journal article | Çukurova University Journal of the Faculty of Engineering and Architecture, Vol. 31, Special Issue 2 | Product ranking, query processing |
+| 2016 | [A Product Search Engine Supporting "Best Product" Queries](https://huggingface.co/MonsterMMORPG/ResearchArticles/blob/main/conferences/2016-IMSEC/2016-IMSEC-Full-Paper-A-Product-Search-Engine-Supporting-Best-Product-Queries.pdf) | [PDF](https://huggingface.co/MonsterMMORPG/ResearchArticles/resolve/main/conferences/2016-IMSEC/2016-IMSEC-Full-Paper-A-Product-Search-Engine-Supporting-Best-Product-Queries.pdf) / [Drive](https://drive.google.com/file/d/1HZs_v3san-3in88UKmAnk5Tw0wbhTscS/view?usp=sharing) | Journal article | Çukurova University Journal of the Faculty of Engineering and Architecture, Vol. 31, Special Issue 2 | Product ranking, query processing |
 | 2016 | [Product Search Engine Using Product Name Recognition and Sentiment Analysis](https://huggingface.co/MonsterMMORPG/ResearchArticles/blob/main/Product_Search_Engine_Using_Product_Name_Recognition_And_Sentiment_Analysis.pdf) | [PDF](https://huggingface.co/MonsterMMORPG/ResearchArticles/resolve/main/Product_Search_Engine_Using_Product_Name_Recognition_And_Sentiment_Analysis.pdf) / [Drive](https://drive.google.com/file/d/1kG_gtDorOqIcoIiRFpfdJjJu7a4C0bNG/view?usp=sharing) | PhD thesis | Çukurova University | Full product-search-engine architecture |
 | 2015 | [New Metrics for Clustering of Identical Products over Imperfect Data](https://huggingface.co/MonsterMMORPG/ResearchArticles/blob/main/New_Metrics_For_Clustering_Of_Identical_Products_Over_Imperfect_Data.pdf) | [PDF](https://huggingface.co/MonsterMMORPG/ResearchArticles/resolve/main/New_Metrics_For_Clustering_Of_Identical_Products_Over_Imperfect_Data.pdf) / [Drive](https://drive.google.com/file/d/1MnoWnxfXmYJ8NGlDeTnaqaYXRkILT2b8/view?usp=sharing) | Journal article | Turkish Journal of Electrical Engineering and Computer Sciences, Vol. 23, No. 4 | Similarity metrics, evaluation |
 | 2012 | [Fiyat Karşılaştırmalı Ürün Arama Motoru Geliştirme](https://huggingface.co/MonsterMMORPG/ResearchArticles/blob/main/Fiyat_Kar%C5%9F%C4%B1la%C5%9Ft%C4%B1rmal%C4%B1_%C3%9Cr%C3%BCn_Arama_Motoru_Geli%C5%9Ftirme.pdf) | [PDF](https://huggingface.co/MonsterMMORPG/ResearchArticles/resolve/main/Fiyat_Kar%C5%9F%C4%B1la%C5%9Ft%C4%B1rmal%C4%B1_%C3%9Cr%C3%BCn_Arama_Motoru_Geli%C5%9Ftirme.pdf) / [Drive](https://drive.google.com/file/d/1Uak3KlszCMnenCmSkhVg40x12EuFk9qc/view?usp=sharing) | MSc thesis | Mersin University | Price-comparison search engine |
+
+## Conference Materials
+
+Conference records are grouped by event so related papers, proceedings, certificates, programs, and participant records stay together.
+
+### 2026 - 26th International Istanbul Scientific Research Congress
+
+**Event:** 26th International Istanbul Scientific Research Congress on Life, Engineering, Architecture, and Mathematical Sciences, Istanbul, Türkiye, August 18-20, 2026
+
+**Presented work:** *Evaluating Machine Learning Algorithms for Forecasting Residential Property Prices in Bishkek*, by Bektur Omurkan and Furkan Gözükara
+
+**Scheduled presentation:** August 19, 2026, 11:45-12:00, Session 1, Hall 2
+
+- [Participation certificate](https://huggingface.co/MonsterMMORPG/ResearchArticles/resolve/main/conferences/2026-Istanbul-Congress/2026-Istanbul-Congress-Certificate-Furkan-Gozukara-Property-Price-Forecasting.pdf)
+- [Session program](https://huggingface.co/MonsterMMORPG/ResearchArticles/resolve/main/conferences/2026-Istanbul-Congress/2026-Istanbul-Congress-Session-Program.pdf)
+- [Opening program](https://huggingface.co/MonsterMMORPG/ResearchArticles/resolve/main/conferences/2026-Istanbul-Congress/2026-Istanbul-Congress-Opening-Program.pdf)
+- [Türkiye participant list](https://huggingface.co/MonsterMMORPG/ResearchArticles/resolve/main/conferences/2026-Istanbul-Congress/2026-Istanbul-Congress-Turkiye-Participants.xlsx)
+
+### 2016 - 1st International Mediterranean Science and Engineering Congress (IMSEC)
+
+**Event:** IMSEC 2016, Çukurova University Congress Center, Adana, Türkiye, October 26-28, 2016
+
+**Presented work:** *A Product Search Engine Supporting "Best Product" Queries*, by Furkan Gözükara and Selma Ayşe Özel
+
+**Proceedings location:** Printed page 3704, paper ID 1035 (PDF page 3769)
+
+- [Full paper](https://huggingface.co/MonsterMMORPG/ResearchArticles/resolve/main/conferences/2016-IMSEC/2016-IMSEC-Full-Paper-A-Product-Search-Engine-Supporting-Best-Product-Queries.pdf)
+- [Proceedings book](https://huggingface.co/MonsterMMORPG/ResearchArticles/resolve/main/conferences/2016-IMSEC/2016-IMSEC-Proceedings-Book.pdf)
+- [Participation certificate](https://huggingface.co/MonsterMMORPG/ResearchArticles/resolve/main/conferences/2016-IMSEC/2016-IMSEC-Certificate-Furkan-Gozukara-Best-Product-Queries.jpg)
 
 ## Detailed Timeline
 
@@ -113,7 +143,7 @@ This article compares **document-vector construction choices** for sentiment ana
 
 <a id="2016-best-product-queries"></a>
 
-### 2016 - [A Product Search Engine Supporting "Best Product" Queries](https://huggingface.co/MonsterMMORPG/ResearchArticles/resolve/main/A_Product_Search_Engine_Supporting_Best_Product_Queries.pdf)
+### 2016 - [A Product Search Engine Supporting "Best Product" Queries](https://huggingface.co/MonsterMMORPG/ResearchArticles/resolve/main/conferences/2016-IMSEC/2016-IMSEC-Full-Paper-A-Product-Search-Engine-Supporting-Best-Product-Queries.pdf)
 
 **Type:** Journal article  
 **Venue:** Çukurova University Journal of the Faculty of Engineering and Architecture, Vol. 31, Special Issue 2  
