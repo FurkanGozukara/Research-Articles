@@ -10,9 +10,9 @@ A curated collection of research articles and theses by **Furkan Gözükara** an
 
 ## At a Glance
 
-- **11 works** across journal articles, an MSc thesis, and a PhD thesis
+- **12 works** across journal articles, an MSc thesis, and a PhD thesis
 - **2 conference collections** with event-specific folders for papers, proceedings, certificates, programs, and participant records
-- Core themes: **product search**, **record linkage**, **focused web crawling**, **sentiment analysis**, **cyber forensics**, and **human-computer interaction**
+- Core themes: **product search**, **record linkage**, **focused web crawling**, **sentiment analysis**, **computer vision**, **cyber forensics**, and **human-computer interaction**
 - Includes both **method papers** and **full-system theses** that connect crawling, normalization, matching, ranking, and evaluation
 
 ## Research Themes
@@ -21,6 +21,7 @@ A curated collection of research articles and theses by **Furkan Gözükara** an
 - Product identity clustering, record linkage, and noisy-data normalization
 - Focused web crawling and large-scale data extraction
 - Sentiment analysis for Turkish and English text
+- Object detection, bounding-box localization, and precision agriculture
 - Cyber forensics and evidentiary risk analysis
 - Air-writing recognition and human-computer interaction
 
@@ -28,6 +29,7 @@ A curated collection of research articles and theses by **Furkan Gözükara** an
 
 | Year | Title | PDF | Type | Venue / Source | Focus |
 |---|---|---|---|---|---|
+| 2026 | [Directional Alignment Penalty: A Lightweight Localization Loss for Improved Bounding Box Regression in YOLOv8](https://huggingface.co/MonsterMMORPG/ResearchArticles/blob/main/Directional_Alignment_Penalty_A_Lightweight_Localization_Loss_For_Improved_Bounding_Box_Regression_In_YOLOv8.pdf) | [PDF](https://huggingface.co/MonsterMMORPG/ResearchArticles/resolve/main/Directional_Alignment_Penalty_A_Lightweight_Localization_Loss_For_Improved_Bounding_Box_Regression_In_YOLOv8.pdf) | Journal article | Applied Sciences, Vol. 16, No. 16, Article 8286 | YOLOv8 localization, precision agriculture |
 | 2026 | [Implementation of Modified Effective Butterfly Optimizer in Solving Multi-Objective Pareto Optimal Power Flow Problem with Renewable Uncertainties](https://huggingface.co/MonsterMMORPG/ResearchArticles/blob/main/Implementation_of_Modified_Effective_Butterfly_Optimizer_in_Solving_Multi-Objective_Pareto_Optimal_Power_Flow_Problem.pdf) | [PDF](https://huggingface.co/MonsterMMORPG/ResearchArticles/resolve/main/Implementation_of_Modified_Effective_Butterfly_Optimizer_in_Solving_Multi-Objective_Pareto_Optimal_Power_Flow_Problem.pdf) / [Drive](https://drive.google.com/file/d/1RPojRzwu3LdETMZjJdMNrSId9UU2cjRk/view?usp=sharing) | Journal article | Biomimetics, Vol. 11, No. 6, Article 418 | Multi-objective optimal power flow, Pareto optimization |
 | 2025 | [Letter and Person Recognition in Freeform Air-Writing Using Machine Learning Algorithms](https://huggingface.co/MonsterMMORPG/ResearchArticles/blob/main/Letter_and_Person_Recognition_in_Freeform_Air-Writing_Using_Machine_Learning_Algorithms.pdf) | [PDF](https://huggingface.co/MonsterMMORPG/ResearchArticles/resolve/main/Letter_and_Person_Recognition_in_Freeform_Air-Writing_Using_Machine_Learning_Algorithms.pdf) / [Drive](https://drive.google.com/file/d/1Xj57ukYg599x5oyq9ObyY458GwpXUs5R/view?usp=sharing) | Journal article | IEEE Access, Vol. 13 | Air-writing, person recognition |
 | 2021 | [An Incremental Hierarchical Clustering Based System For Record Linkage In E-Commerce Domain](https://huggingface.co/MonsterMMORPG/ResearchArticles/blob/main/An_Incremental_Hierarchical_Clustering_Based_System_For_Record_Linkage_In_E-Commerce_Domain.pdf) | [PDF](https://huggingface.co/MonsterMMORPG/ResearchArticles/resolve/main/An_Incremental_Hierarchical_Clustering_Based_System_For_Record_Linkage_In_E-Commerce_Domain.pdf) / [Drive](https://drive.google.com/file/d/1oHW5boL9FLtpL4QYkuzfVXxLYzHGYA7Q/view?usp=sharing) | Journal article | The Computer Journal *(uploaded PDF is an advance-article version)* | Record linkage, product matching |
@@ -70,6 +72,17 @@ Conference records are grouped by event so related papers, proceedings, certific
 - [Participation certificate](https://huggingface.co/MonsterMMORPG/ResearchArticles/resolve/main/conferences/2016-IMSEC/2016-IMSEC-Certificate-Furkan-Gozukara-Best-Product-Queries.jpg)
 
 ## Detailed Timeline
+
+<a id="2026-dap-yolov8"></a>
+
+### 2026 - [Directional Alignment Penalty: A Lightweight Localization Loss for Improved Bounding Box Regression in YOLOv8](https://huggingface.co/MonsterMMORPG/ResearchArticles/resolve/main/Directional_Alignment_Penalty_A_Lightweight_Localization_Loss_For_Improved_Bounding_Box_Regression_In_YOLOv8.pdf)
+
+**Type:** Journal article  
+**Venue:** Applied Sciences, Vol. 16, No. 16, Article 8286  
+**DOI:** [10.3390/app16168286](https://doi.org/10.3390/app16168286)  
+**Focus:** Object detection, YOLOv8, bounding-box regression, precision agriculture
+
+This paper introduces the **Directional Alignment Penalty (DAP)**, a lightweight and independently weighted center-displacement regularizer for YOLOv8 bounding-box regression. Evaluated on an oyster-mushroom dataset collected in a smart greenhouse, DAP-YOLOv8 improves **mAP@0.5:0.95 from 51.69% to 53.76%** while preserving precision, recall, and the computational efficiency of the base detector.
 
 <a id="2026-mebo-moopf"></a>
 
