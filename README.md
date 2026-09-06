@@ -50,10 +50,20 @@ Conference records are grouped by event so related papers, proceedings, certific
 
 **Event:** 26th International Istanbul Scientific Research Congress on Life, Engineering, Architecture, and Mathematical Sciences, Istanbul, Türkiye, August 18-20, 2026
 
-**Presented work:** *Evaluating Machine Learning Algorithms for Forecasting Residential Property Prices in Bishkek*, by Bektur Omurkan and Furkan Gözükara
+**Presented work:** *Evaluating Machine Learning Algorithms for Forecasting Residential Property Prices in Bishkek*, by Bektur Omurkanov and Furkan Gözükara
 
 **Scheduled presentation:** August 19, 2026, 11:45-12:00, Session 1, Hall 2
 
+**Proceedings publication:** BZT Turan Publishing House, August 28, 2026; 1,760 PDF pages
+
+**E-ISBN:** 978-9952-610-87-1
+
+**Book DOI:** [10.30546/19023.978-9952-610-87-1.2026.100.1144.](https://doi.org/10.30546/19023.978-9952-610-87-1.2026.100.1144.)
+
+**Proceedings location:** Printed pages 653-664 (PDF pages 759-770)
+
+- [Paper in proceedings](https://huggingface.co/MonsterMMORPG/ResearchArticles/resolve/main/conferences/2026-Istanbul-Congress/2026-Istanbul-Congress-Proceedings-Book.pdf#page=759)
+- [Proceedings book](https://huggingface.co/MonsterMMORPG/ResearchArticles/resolve/main/conferences/2026-Istanbul-Congress/2026-Istanbul-Congress-Proceedings-Book.pdf)
 - [Participation certificate](https://huggingface.co/MonsterMMORPG/ResearchArticles/resolve/main/conferences/2026-Istanbul-Congress/2026-Istanbul-Congress-Certificate-Furkan-Gozukara-Property-Price-Forecasting.pdf)
 - [Session program](https://huggingface.co/MonsterMMORPG/ResearchArticles/resolve/main/conferences/2026-Istanbul-Congress/2026-Istanbul-Congress-Session-Program.pdf)
 - [Opening program](https://huggingface.co/MonsterMMORPG/ResearchArticles/resolve/main/conferences/2026-Istanbul-Congress/2026-Istanbul-Congress-Opening-Program.pdf)
