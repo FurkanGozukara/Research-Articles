@@ -62,6 +62,7 @@ Conference records are grouped by event so related papers, proceedings, certific
 
 **Proceedings location:** Printed pages 653-664 (PDF pages 759-770)
 
+- [Full paper (12-page PDF)](https://huggingface.co/MonsterMMORPG/ResearchArticles/resolve/main/conferences/2026-Istanbul-Congress/2026-Istanbul-Congress-Full-Paper-Evaluating-Machine-Learning-Algorithms-for-Forecasting-Residential-Property-Prices-in-Bishkek.pdf)
 - [Paper in proceedings](https://huggingface.co/MonsterMMORPG/ResearchArticles/resolve/main/conferences/2026-Istanbul-Congress/2026-Istanbul-Congress-Proceedings-Book.pdf#page=759)
 - [Proceedings book](https://huggingface.co/MonsterMMORPG/ResearchArticles/resolve/main/conferences/2026-Istanbul-Congress/2026-Istanbul-Congress-Proceedings-Book.pdf)
 - [Participation certificate](https://huggingface.co/MonsterMMORPG/ResearchArticles/resolve/main/conferences/2026-Istanbul-Congress/2026-Istanbul-Congress-Certificate-Furkan-Gozukara-Property-Price-Forecasting.pdf)
