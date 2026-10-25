@@ -1,0 +1,450 @@
+{
+  "checked_on": "2026-10-26",
+  "author": {
+    "name": "Furkan Gözükara",
+    "orcid": "0000-0001-9379-2163"
+  },
+  "authored_work_count": 16,
+  "distinct_doi_count": 15,
+  "verification_scope": {
+    "full_pdf_count": 19,
+    "pages_scanned": 973,
+    "sources": [
+      "Crossref",
+      "DOI Handle registry",
+      "ORCID",
+      "Mersin University APBS",
+      "Original publisher records and PDFs",
+      "ResearchGate",
+      "DataCite",
+      "OpenAlex",
+      "Consensus",
+      "Undermind"
+    ],
+    "author_variants": [
+      "Furkan Gözükara",
+      "Furkan Gozukara",
+      "Furkan Goezuekara"
+    ]
+  },
+  "authored_works": [
+    {
+      "id": "chapter",
+      "title": "Üretken Görsel Modellerin Kişiselleştirilmesinde Yeniden Üretilebilirlik ve Değerlendirme",
+      "year": 2026,
+      "type": "book-chapter",
+      "pdf": "Uretken_Gorsel_Modellerin_Kisisellestirilmesinde_Yeniden_Uretilebilirlik_ve_Degerlendirme_Furkan_Gozukara_2026.pdf",
+      "pdf_url": "https://huggingface.co/MonsterMMORPG/ResearchArticles/resolve/main/Uretken_Gorsel_Modellerin_Kisisellestirilmesinde_Yeniden_Uretilebilirlik_ve_Degerlendirme_Furkan_Gozukara_2026.pdf",
+      "doi": "10.70269/10.70269/1521921127",
+      "doi_url": "https://doi.org/10.70269/10.70269/1521921127",
+      "doi_kind": "publication",
+      "doi_status": "registered",
+      "sha256": "2d126bc6c5df7c26df7b1ee3f4ae815a41caa471aa5cc7909e8cbdbb572fc9af",
+      "verification_sources": [
+        "https://api.crossref.org/works/10.70269/10.70269/1521921127",
+        "https://doi.org/api/handles/10.70269/10.70269/1521921127"
+      ],
+      "chapter_number": 13,
+      "printed_pages": "288-321",
+      "source_pdf_pages": "295-328",
+      "page_count": 34,
+      "book_doi": "10.70269/K1D5PSKWKHPE",
+      "book_title": "Yapay Zekâdan Akıllı Sistemlere: Hesaplamalı Yöntemler ve Güncel Uygulamalar",
+      "isbn": "978-625-5474-47-6",
+      "editor": "Eyyüp Gülbandılar",
+      "publisher": "BİDGE Yayınları",
+      "publication_date": "2026-10-25"
+    },
+    {
+      "id": "structure_aware",
+      "title": "Structure-Aware RGB Channel Reconstruction for YOLOv8-Based Oyster Mushroom Detection",
+      "year": 2026,
+      "type": "journal-article",
+      "pdf": "Structure_Aware_RGB_Channel_Reconstruction_for_YOLOv8_Based_Oyster_Mushroom_Detection.pdf",
+      "pdf_url": "https://huggingface.co/MonsterMMORPG/ResearchArticles/resolve/main/Structure_Aware_RGB_Channel_Reconstruction_for_YOLOv8_Based_Oyster_Mushroom_Detection.pdf",
+      "doi": "10.3390/agriculture16181985",
+      "doi_url": "https://doi.org/10.3390/agriculture16181985",
+      "doi_kind": "publication",
+      "doi_status": "registered",
+      "sha256": "b05861c6bf95568d60b2fe616f9ea61da5ce81093b63c172cd2a9893f00eee81",
+      "verification_sources": [
+        "https://api.crossref.org/works/10.3390/agriculture16181985"
+      ],
+      "venue": "Agriculture",
+      "volume": 16,
+      "issue": 18,
+      "article_number": 1985,
+      "publication_date": "2026-09-16"
+    },
+    {
+      "id": "bishkek_paper",
+      "title": "Evaluating Machine Learning Algorithms for Forecasting Residential Property Prices in Bishkek",
+      "year": 2026,
+      "type": "conference-paper",
+      "pdf": "conferences/2026-Istanbul-Congress/2026-Istanbul-Congress-Full-Paper-Evaluating-Machine-Learning-Algorithms-for-Forecasting-Residential-Property-Prices-in-Bishkek.pdf",
+      "pdf_url": "https://huggingface.co/MonsterMMORPG/ResearchArticles/resolve/main/conferences/2026-Istanbul-Congress/2026-Istanbul-Congress-Full-Paper-Evaluating-Machine-Learning-Algorithms-for-Forecasting-Residential-Property-Prices-in-Bishkek.pdf",
+      "doi": null,
+      "doi_url": null,
+      "doi_kind": null,
+      "doi_status": "no_separate_paper_doi_found",
+      "sha256": "8904e80ca6ba3b10048b1ddbdbda30e2e7c550d5a83959f48a5677b6ae2129aa",
+      "book_doi": "10.30546/19023.978-9952-610-87-1.2026.100.1144.",
+      "printed_pages": "653-664",
+      "verification_sources": [
+        "https://api.crossref.org/works/10.30546/19023.978-9952-610-87-1.2026.100.1144."
+      ]
+    },
+    {
+      "id": "dap",
+      "title": "Directional Alignment Penalty: A Lightweight Localization Loss for Improved Bounding Box Regression in YOLOv8",
+      "year": 2026,
+      "type": "journal-article",
+      "pdf": "Directional_Alignment_Penalty_A_Lightweight_Localization_Loss_For_Improved_Bounding_Box_Regression_In_YOLOv8.pdf",
+      "pdf_url": "https://huggingface.co/MonsterMMORPG/ResearchArticles/resolve/main/Directional_Alignment_Penalty_A_Lightweight_Localization_Loss_For_Improved_Bounding_Box_Regression_In_YOLOv8.pdf",
+      "doi": "10.3390/app16168286",
+      "doi_url": "https://doi.org/10.3390/app16168286",
+      "doi_kind": "publication",
+      "doi_status": "registered",
+      "sha256": "c76429555a1fbe5fa2b7df883fa97528a82cf17854fcee396745a4f62c359ddf",
+      "verification_sources": [
+        "https://api.crossref.org/works/10.3390/app16168286"
+      ]
+    },
+    {
+      "id": "mebo",
+      "title": "Implementation of Modified Effective Butterfly Optimizer in Solving Multi-Objective Pareto Optimal Power Flow Problem with Renewable Uncertainties",
+      "year": 2026,
+      "type": "journal-article",
+      "pdf": "Implementation_of_Modified_Effective_Butterfly_Optimizer_in_Solving_Multi-Objective_Pareto_Optimal_Power_Flow_Problem.pdf",
+      "pdf_url": "https://huggingface.co/MonsterMMORPG/ResearchArticles/resolve/main/Implementation_of_Modified_Effective_Butterfly_Optimizer_in_Solving_Multi-Objective_Pareto_Optimal_Power_Flow_Problem.pdf",
+      "doi": "10.3390/biomimetics11060418",
+      "doi_url": "https://doi.org/10.3390/biomimetics11060418",
+      "doi_kind": "publication",
+      "doi_status": "registered",
+      "sha256": "3dae4c663dd6cb17648c36f346d8a7735ec41a4ca900962ff0d822c158dd66fa",
+      "verification_sources": [
+        "https://api.crossref.org/works/10.3390/biomimetics11060418"
+      ]
+    },
+    {
+      "id": "air_writing",
+      "title": "Letter and Person Recognition in Freeform Air-Writing Using Machine Learning Algorithms",
+      "year": 2025,
+      "type": "journal-article",
+      "pdf": "Letter_And_Person_Recognition_In_Freeform_Air-Writing_Using_Machine_Learning_Algorithms.pdf",
+      "pdf_url": "https://huggingface.co/MonsterMMORPG/ResearchArticles/resolve/main/Letter_And_Person_Recognition_In_Freeform_Air-Writing_Using_Machine_Learning_Algorithms.pdf",
+      "doi": "10.1109/ACCESS.2025.3536609",
+      "doi_url": "https://doi.org/10.1109/ACCESS.2025.3536609",
+      "doi_kind": "publication",
+      "doi_status": "registered",
+      "sha256": "a6b1ab4c31d01440274114de7a1aab55c1c5569683c9e5bedfb1d911931bad81",
+      "verification_sources": [
+        "https://api.crossref.org/works/10.1109/ACCESS.2025.3536609"
+      ]
+    },
+    {
+      "id": "record_linkage",
+      "title": "An Incremental Hierarchical Clustering Based System For Record Linkage In E-Commerce Domain",
+      "year": 2021,
+      "type": "journal-article",
+      "pdf": "An_Incremental_Hierarchical_Clustering_Based_System_For_Record_Linkage_In_E-Commerce_Domain.pdf",
+      "pdf_url": "https://huggingface.co/MonsterMMORPG/ResearchArticles/resolve/main/An_Incremental_Hierarchical_Clustering_Based_System_For_Record_Linkage_In_E-Commerce_Domain.pdf",
+      "doi": "10.1093/comjnl/bxab179",
+      "doi_url": "https://doi.org/10.1093/comjnl/bxab179",
+      "doi_kind": "publication",
+      "doi_status": "registered",
+      "sha256": "fb5727067e5c328294448d26d42af22760eee7c4d5bc17ac527b78ee151e86e7",
+      "verification_sources": [
+        "https://api.crossref.org/works/10.1093/comjnl/bxab179"
+      ]
+    },
+    {
+      "id": "cgn_logs",
+      "title": "Challenges and Possible Severe Legal Consequences of Application Users Identification from CNG-Logs",
+      "year": 2021,
+      "type": "journal-article",
+      "pdf": "Challenges_And_Possible_Severe_Legal_Consequences_Of_Application_Users_Identification_From_Cng-Logs.pdf",
+      "pdf_url": "https://huggingface.co/MonsterMMORPG/ResearchArticles/resolve/main/Challenges_And_Possible_Severe_Legal_Consequences_Of_Application_Users_Identification_From_Cng-Logs.pdf",
+      "doi": "10.1016/j.fsidi.2021.301312",
+      "doi_url": "https://doi.org/10.1016/j.fsidi.2021.301312",
+      "doi_kind": "publication",
+      "doi_status": "registered",
+      "sha256": "5e818d135c75746a522fe7f3606c0a05d433f6bf03e11df778c722fbe297565e",
+      "verification_sources": [
+        "https://api.crossref.org/works/10.1016/j.fsidi.2021.301312"
+      ]
+    },
+    {
+      "id": "feature_selection",
+      "title": "Efficient Feature Selection for Product Labeling over Unstructured Data",
+      "year": 2017,
+      "type": "journal-article",
+      "pdf": "Efficient_Feature_Selection_For_Product_Labeling_Over_Unstructured_Data.pdf",
+      "pdf_url": "https://huggingface.co/MonsterMMORPG/ResearchArticles/resolve/main/Efficient_Feature_Selection_For_Product_Labeling_Over_Unstructured_Data.pdf",
+      "doi": "10.14569/IJACSA.2017.080750",
+      "doi_url": "https://doi.org/10.14569/IJACSA.2017.080750",
+      "doi_kind": "publication",
+      "doi_status": "registered",
+      "sha256": "aa81c61fbe8689ae9c95a5b7dc0b7603a9c250fcf4ffdc6c001464f5041a7b3a",
+      "verification_sources": [
+        "https://api.crossref.org/works/10.14569/IJACSA.2017.080750"
+      ]
+    },
+    {
+      "id": "eccrawler",
+      "title": "Focused Web Crawler Development Challenges: ECCrawler",
+      "year": 2017,
+      "type": "journal-article",
+      "pdf": "Focused_Web_Crawler_Development_Challenges_Eccrawler.pdf",
+      "pdf_url": "https://huggingface.co/MonsterMMORPG/ResearchArticles/resolve/main/Focused_Web_Crawler_Development_Challenges_Eccrawler.pdf",
+      "doi": null,
+      "doi_url": null,
+      "doi_kind": null,
+      "doi_status": "not_found",
+      "sha256": "ecba6621a0cd92ad0b29012b1354dd0a287857cccd597152df7319e4d0287bc2",
+      "verification_sources": [
+        "https://www.iaset.us/index.php/archives/international-journals/international-journal-of-computer-science-and-engineering?page=12",
+        "https://www.researchgate.net/publication/338691823_FOCUSED_WEB_CRAWLER_DEVELOPMENT_CHALLENGES_ECCRAWLER"
+      ]
+    },
+    {
+      "id": "document_vectors",
+      "title": "An Experimental Investigation of Document Vector Computation Methods for Sentiment Analysis of Turkish and English Reviews",
+      "year": 2016,
+      "type": "journal-article",
+      "pdf": "An_Experimental_Investigation_Of_Document_Vector_Computation_Methods_For_Sentiment_Analysis_Of_Turkish_And_English_Reviews.pdf",
+      "pdf_url": "https://huggingface.co/MonsterMMORPG/ResearchArticles/resolve/main/An_Experimental_Investigation_Of_Document_Vector_Computation_Methods_For_Sentiment_Analysis_Of_Turkish_And_English_Reviews.pdf",
+      "doi": "10.21605/cukurovaummfd.310341",
+      "doi_url": "https://doi.org/10.21605/cukurovaummfd.310341",
+      "doi_kind": "publication",
+      "doi_status": "registered",
+      "sha256": "d4b018b4333f0bc797c7cba440e7cff91ad653002b73c35bbe66391874cb90b5",
+      "verification_sources": [
+        "https://api.crossref.org/works/10.21605/cukurovaummfd.310341"
+      ]
+    },
+    {
+      "id": "best_product_queries",
+      "title": "A Product Search Engine Supporting \"Best Product\" Queries",
+      "year": 2016,
+      "type": "journal-article",
+      "pdf": "conferences/2016-IMSEC/2016-IMSEC-Full-Paper-A-Product-Search-Engine-Supporting-Best-Product-Queries.pdf",
+      "pdf_url": "https://huggingface.co/MonsterMMORPG/ResearchArticles/resolve/main/conferences/2016-IMSEC/2016-IMSEC-Full-Paper-A-Product-Search-Engine-Supporting-Best-Product-Queries.pdf",
+      "doi": "10.21605/cukurovaummfd.316791",
+      "doi_url": "https://doi.org/10.21605/cukurovaummfd.316791",
+      "doi_kind": "publication",
+      "doi_status": "registered",
+      "sha256": "76cf9ca343470b65e6512c5d9ad54cbc364a4fdb235608a0ee24b6a3e44d9959",
+      "verification_sources": [
+        "https://api.crossref.org/works/10.21605/cukurovaummfd.316791"
+      ]
+    },
+    {
+      "id": "imsec_2016_abstract",
+      "title": "A Product Search Engine Supporting “Best Product” Queries",
+      "year": 2016,
+      "type": "conference-abstract",
+      "pdf": "conferences/2016-IMSEC/2016-IMSEC-Proceedings-Abstract-A-Product-Search-Engine-Supporting-Best-Product-Queries.pdf",
+      "pdf_url": "https://huggingface.co/MonsterMMORPG/ResearchArticles/resolve/main/conferences/2016-IMSEC/2016-IMSEC-Proceedings-Abstract-A-Product-Search-Engine-Supporting-Best-Product-Queries.pdf",
+      "doi": null,
+      "doi_url": null,
+      "doi_kind": null,
+      "doi_status": "no_separate_conference_doi_found",
+      "printed_pages": "3704",
+      "source_pdf_pages": "3769",
+      "paper_id": "1035",
+      "related_journal_article": "best_product_queries",
+      "related_journal_doi": "10.21605/cukurovaummfd.316791",
+      "related_journal_doi_url": "https://doi.org/10.21605/cukurovaummfd.316791",
+      "verification_sources": [
+        "https://huggingface.co/MonsterMMORPG/ResearchArticles/resolve/main/conferences/2016-IMSEC/2016-IMSEC-Proceedings-Book.pdf#page=3769",
+        "https://apbs.mersin.edu.tr/profiles/278952/bildiriler"
+      ],
+      "sha256": "36a0b12f418561c0d8ae1e057339fa8ae419d1b7f4e0bc39e58bfe4a9f94729b"
+    },
+    {
+      "id": "phd_repository",
+      "title": "Product Search Engine Using Product Name Recognition and Sentiment Analysis",
+      "year": 2016,
+      "type": "phd-thesis",
+      "pdf": "Product_Search_Engine_Using_Product_Name_Recognition_And_Sentiment_Analysis.pdf",
+      "pdf_url": "https://huggingface.co/MonsterMMORPG/ResearchArticles/resolve/main/Product_Search_Engine_Using_Product_Name_Recognition_And_Sentiment_Analysis.pdf",
+      "doi": "10.13140/RG.2.2.12943.33443",
+      "doi_url": "https://doi.org/10.13140/RG.2.2.12943.33443",
+      "doi_kind": "repository",
+      "doi_status": "registered",
+      "sha256": "28410bca4758077ccbe9daf9e65027081544317ba349f6247202a62079d04dc4",
+      "verification_sources": [
+        "https://www.researchgate.net/publication/339629815_Product_Search_Engine_Using_Product_Name_Recognition_and_Sentiment_Analysis",
+        "https://doi.org/api/handles/10.13140/RG.2.2.12943.33443"
+      ]
+    },
+    {
+      "id": "clustering_metrics",
+      "title": "New Metrics for Clustering of Identical Products over Imperfect Data",
+      "year": 2015,
+      "type": "journal-article",
+      "pdf": "New_Metrics_For_Clustering_Of_Identical_Products_Over_Imperfect_Data.pdf",
+      "pdf_url": "https://huggingface.co/MonsterMMORPG/ResearchArticles/resolve/main/New_Metrics_For_Clustering_Of_Identical_Products_Over_Imperfect_Data.pdf",
+      "doi": "10.3906/elk-1307-127",
+      "doi_url": "https://doi.org/10.3906/elk-1307-127",
+      "doi_kind": "publication",
+      "doi_status": "registered",
+      "sha256": "7073613a6d092c10aae9e657dfd7a04a3451de7feebfafaa8c6277a688f0124c",
+      "verification_sources": [
+        "https://api.crossref.org/works/10.3906/elk-1307-127"
+      ]
+    },
+    {
+      "id": "msc_repository",
+      "title": "Fiyat Karşılaştırmalı Ürün Arama Motoru Geliştirme",
+      "year": 2012,
+      "type": "msc-thesis",
+      "pdf": "Fiyat_Karşılaştırmalı_Ürün_Arama_Motoru_Geliştirme.pdf",
+      "pdf_url": "https://huggingface.co/MonsterMMORPG/ResearchArticles/resolve/main/Fiyat_Kar%C5%9F%C4%B1la%C5%9Ft%C4%B1rmal%C4%B1_%C3%9Cr%C3%BCn_Arama_Motoru_Geli%C5%9Ftirme.pdf",
+      "doi": "10.13140/RG.2.2.28042.82884",
+      "doi_url": "https://doi.org/10.13140/RG.2.2.28042.82884",
+      "doi_kind": "repository",
+      "doi_status": "registered",
+      "sha256": "35f66d758a9a40d951615e4ff005947a230821c3eb6d45dd4c986908c609fa2f",
+      "verification_sources": [
+        "https://www.researchgate.net/publication/339629606_Fiyat_Karsilastirmali_Urun_Arama_Motoru_Gelistirme",
+        "https://doi.org/api/handles/10.13140/RG.2.2.28042.82884"
+      ]
+    }
+  ],
+  "supporting_books": [
+    {
+      "id": "book",
+      "title": "Yapay Zekâdan Akıllı Sistemlere: Hesaplamalı Yöntemler ve Güncel Uygulamalar",
+      "year": 2026,
+      "type": "edited-book",
+      "pdf": "Yapay_Zekadan_Akilli_Sistemlere_Hesaplamali_Yontemler_ve_Guncel_Uygulamalar_2026_Full_Book.pdf",
+      "pdf_url": "https://huggingface.co/MonsterMMORPG/ResearchArticles/resolve/main/Yapay_Zekadan_Akilli_Sistemlere_Hesaplamali_Yontemler_ve_Guncel_Uygulamalar_2026_Full_Book.pdf",
+      "doi": "10.70269/K1D5PSKWKHPE",
+      "doi_url": "https://doi.org/10.70269/K1D5PSKWKHPE",
+      "doi_kind": "publication",
+      "doi_status": "registered",
+      "sha256": "01f4cf10712aa53efe4e526d2c9c1b26459231c10edf6afefb97854ce56788ef",
+      "verification_sources": [
+        "https://api.crossref.org/works/10.70269/K1D5PSKWKHPE",
+        "https://doi.org/api/handles/10.70269/K1D5PSKWKHPE"
+      ],
+      "editor": "Eyyüp Gülbandılar",
+      "publisher": "BİDGE Yayınları",
+      "isbn": "978-625-5474-47-6",
+      "publication_date": "2026-10-25",
+      "contributed_chapter": "chapter"
+    },
+    {
+      "id": "istanbul_proceedings",
+      "title": "26th International Istanbul Scientific Research Congress on Life, Engineering, Architecture and Mathematical Sciences: Congress Proceedings Book",
+      "year": 2026,
+      "type": "proceedings-book",
+      "pdf": "conferences/2026-Istanbul-Congress/2026-Istanbul-Congress-Proceedings-Book.pdf",
+      "pdf_url": "https://huggingface.co/MonsterMMORPG/ResearchArticles/resolve/main/conferences/2026-Istanbul-Congress/2026-Istanbul-Congress-Proceedings-Book.pdf",
+      "doi": "10.30546/19023.978-9952-610-87-1.2026.100.1144.",
+      "doi_url": "https://doi.org/10.30546/19023.978-9952-610-87-1.2026.100.1144.",
+      "doi_kind": "publication",
+      "doi_status": "registered",
+      "sha256": "16eb6f01dc17f3cf0d5ddc4e9badf4abf27fe00da8607a7e7a8c52b739736172",
+      "verification_sources": [
+        "https://api.crossref.org/works/10.30546/19023.978-9952-610-87-1.2026.100.1144."
+      ],
+      "contributed_paper": "bishkek_paper",
+      "note": "The terminal period is part of the registered DOI."
+    },
+    {
+      "id": "imsec_2016_proceedings",
+      "title": "1st International Mediterranean Science and Engineering Congress (IMSEC 2016): Proceedings Book",
+      "year": 2016,
+      "type": "proceedings-book",
+      "pdf": "conferences/2016-IMSEC/2016-IMSEC-Proceedings-Book.pdf",
+      "pdf_url": "https://huggingface.co/MonsterMMORPG/ResearchArticles/resolve/main/conferences/2016-IMSEC/2016-IMSEC-Proceedings-Book.pdf",
+      "doi": null,
+      "doi_url": null,
+      "doi_kind": null,
+      "doi_status": "no_book_doi_identified",
+      "contributed_paper": "imsec_2016_abstract",
+      "page_count": 5412,
+      "verification_sources": [
+        "https://huggingface.co/MonsterMMORPG/ResearchArticles/resolve/main/conferences/2016-IMSEC/2016-IMSEC-Proceedings-Book.pdf"
+      ],
+      "sha256": "986ba7f6af102d89bf1561862628d4ef968b4cbdab0f7ab5f69c6095c7aa7072"
+    }
+  ],
+  "publication_entry_count": 16,
+  "counting_note": "The IMSEC proceedings abstract/presentation and its related journal special-issue full paper are separate publication entries for the same study.",
+  "supporting_documents": [
+    {
+      "id": "imsec_2016_certificate",
+      "title": "IMSEC 2016 participation certificate - Furkan Gözükara",
+      "year": 2016,
+      "type": "certificate",
+      "file": "conferences/2016-IMSEC/2016-IMSEC-Certificate-Furkan-Gozukara-Best-Product-Queries.jpg",
+      "file_url": "https://huggingface.co/MonsterMMORPG/ResearchArticles/resolve/main/conferences/2016-IMSEC/2016-IMSEC-Certificate-Furkan-Gozukara-Best-Product-Queries.jpg",
+      "doi": null,
+      "doi_url": null,
+      "doi_kind": null,
+      "doi_status": "not_applicable",
+      "related_material": "IMSEC 2016 presentation",
+      "sha256": "48822ff2e9c47abb7d3d8aa5cb685e091bc8efe6858eb660dc666faa21c4d066"
+    },
+    {
+      "id": "istanbul_2026_certificate",
+      "title": "Istanbul Congress participation certificate - Furkan Gözükara",
+      "year": 2026,
+      "type": "certificate",
+      "file": "conferences/2026-Istanbul-Congress/2026-Istanbul-Congress-Certificate-Furkan-Gozukara-Property-Price-Forecasting.pdf",
+      "file_url": "https://huggingface.co/MonsterMMORPG/ResearchArticles/resolve/main/conferences/2026-Istanbul-Congress/2026-Istanbul-Congress-Certificate-Furkan-Gozukara-Property-Price-Forecasting.pdf",
+      "doi": null,
+      "doi_url": null,
+      "doi_kind": null,
+      "doi_status": "not_applicable",
+      "related_material": "Bishkek property-price paper",
+      "sha256": "6ace6f3d446a121cb085b42224e48181b053ba5f9ca8e4f801565c054dc21bf9"
+    },
+    {
+      "id": "istanbul_2026_session_program",
+      "title": "Istanbul Congress session program",
+      "year": 2026,
+      "type": "session-program",
+      "file": "conferences/2026-Istanbul-Congress/2026-Istanbul-Congress-Session-Program.pdf",
+      "file_url": "https://huggingface.co/MonsterMMORPG/ResearchArticles/resolve/main/conferences/2026-Istanbul-Congress/2026-Istanbul-Congress-Session-Program.pdf",
+      "doi": null,
+      "doi_url": null,
+      "doi_kind": null,
+      "doi_status": "not_applicable",
+      "related_material": "Bishkek property-price presentation",
+      "sha256": "4634e4644b57dcd0e6763e346785bfa075f559461a802442a68ea91ef598258a"
+    },
+    {
+      "id": "istanbul_2026_opening_program",
+      "title": "Istanbul Congress opening program",
+      "year": 2026,
+      "type": "opening-program",
+      "file": "conferences/2026-Istanbul-Congress/2026-Istanbul-Congress-Opening-Program.pdf",
+      "file_url": "https://huggingface.co/MonsterMMORPG/ResearchArticles/resolve/main/conferences/2026-Istanbul-Congress/2026-Istanbul-Congress-Opening-Program.pdf",
+      "doi": null,
+      "doi_url": null,
+      "doi_kind": null,
+      "doi_status": "not_applicable",
+      "related_material": "Istanbul Congress 2026",
+      "sha256": "23e6d8c777f583f7677fd1d562dfbe2905c86367cae2bbeba5d5d7e7405f2ad7"
+    },
+    {
+      "id": "istanbul_2026_participants",
+      "title": "Istanbul Congress Türkiye participant list",
+      "year": 2026,
+      "type": "participant-list",
+      "file": "conferences/2026-Istanbul-Congress/2026-Istanbul-Congress-Turkiye-Participants.xlsx",
+      "file_url": "https://huggingface.co/MonsterMMORPG/ResearchArticles/resolve/main/conferences/2026-Istanbul-Congress/2026-Istanbul-Congress-Turkiye-Participants.xlsx",
+      "doi": null,
+      "doi_url": null,
+      "doi_kind": null,
+      "doi_status": "not_applicable",
+      "related_material": "Istanbul Congress 2026",
+      "sha256": "e594278bf193b0e0078a3054718787f129b36e80f0e176978cb00b5bfd940e95"
+    }
+  ]
+}
