@@ -5,10 +5,10 @@
     "orcid": "0000-0001-9379-2163"
   },
   "authored_work_count": 16,
-  "distinct_doi_count": 15,
+  "distinct_doi_count": 13,
   "verification_scope": {
     "full_pdf_count": 19,
-    "pages_scanned": 973,
+    "pages_scanned": 930,
     "sources": [
       "Crossref",
       "DOI Handle registry",
@@ -25,7 +25,8 @@
       "Furkan Gözükara",
       "Furkan Gozukara",
       "Furkan Goezuekara"
-    ]
+    ],
+    "replacement_book_checked_on": "2026-10-28"
   },
   "authored_works": [
     {
@@ -35,25 +36,26 @@
       "type": "book-chapter",
       "pdf": "Uretken_Gorsel_Modellerin_Kisisellestirilmesinde_Yeniden_Uretilebilirlik_ve_Degerlendirme_Furkan_Gozukara_2026.pdf",
       "pdf_url": "https://huggingface.co/MonsterMMORPG/ResearchArticles/resolve/main/Uretken_Gorsel_Modellerin_Kisisellestirilmesinde_Yeniden_Uretilebilirlik_ve_Degerlendirme_Furkan_Gozukara_2026.pdf",
-      "doi": "10.70269/10.70269/1521921127",
-      "doi_url": "https://doi.org/10.70269/10.70269/1521921127",
-      "doi_kind": "publication",
-      "doi_status": "registered",
-      "sha256": "2d126bc6c5df7c26df7b1ee3f4ae815a41caa471aa5cc7909e8cbdbb572fc9af",
+      "doi": null,
+      "doi_url": null,
+      "doi_kind": null,
+      "doi_status": "not-confirmed-for-replacement-book",
+      "sha256": "8683f16a10e3acedfe0922bf748f5ee3ab49767aed578e5e9ce1932465e0a2ef",
       "verification_sources": [
-        "https://api.crossref.org/works/10.70269/10.70269/1521921127",
-        "https://doi.org/api/handles/10.70269/10.70269/1521921127"
+        "https://panel.bidgecongress.org/uploads/books/book_2247_20261028150011.pdf"
       ],
-      "chapter_number": 13,
-      "printed_pages": "288-321",
-      "source_pdf_pages": "295-328",
+      "chapter_number": 6,
+      "printed_pages": "213-246",
+      "source_pdf_pages": "218-251",
       "page_count": 34,
-      "book_doi": "10.70269/K1D5PSKWKHPE",
-      "book_title": "Yapay Zekâdan Akıllı Sistemlere: Hesaplamalı Yöntemler ve Güncel Uygulamalar",
-      "isbn": "978-625-5474-47-6",
+      "book_doi": null,
+      "book_title": "Yapay Zekâ ve Dijital Teknolojilerde Güncel Araştırmalar: Algoritmalar, Görüntü İşleme ve Akıllı Uygulamalar",
+      "isbn": null,
       "editor": "Eyyüp Gülbandılar",
       "publisher": "BİDGE Yayınları",
-      "publication_date": "2026-10-25"
+      "publication_date": "2026-10-25",
+      "source_pdf_verified_on": "2026-10-28",
+      "verification_note": "The publisher replacement PDF has a temporary cover, ISBN: -, and no stated book or chapter DOI. Previous registrations refer to a different book title and page range and are excluded from the current index."
     },
     {
       "id": "structure_aware",
@@ -316,25 +318,27 @@
   "supporting_books": [
     {
       "id": "book",
-      "title": "Yapay Zekâdan Akıllı Sistemlere: Hesaplamalı Yöntemler ve Güncel Uygulamalar",
+      "title": "Yapay Zekâ ve Dijital Teknolojilerde Güncel Araştırmalar: Algoritmalar, Görüntü İşleme ve Akıllı Uygulamalar",
       "year": 2026,
       "type": "edited-book",
-      "pdf": "Yapay_Zekadan_Akilli_Sistemlere_Hesaplamali_Yontemler_ve_Guncel_Uygulamalar_2026_Full_Book.pdf",
-      "pdf_url": "https://huggingface.co/MonsterMMORPG/ResearchArticles/resolve/main/Yapay_Zekadan_Akilli_Sistemlere_Hesaplamali_Yontemler_ve_Guncel_Uygulamalar_2026_Full_Book.pdf",
-      "doi": "10.70269/K1D5PSKWKHPE",
-      "doi_url": "https://doi.org/10.70269/K1D5PSKWKHPE",
-      "doi_kind": "publication",
-      "doi_status": "registered",
-      "sha256": "01f4cf10712aa53efe4e526d2c9c1b26459231c10edf6afefb97854ce56788ef",
+      "pdf": "Yapay_Zeka_ve_Dijital_Teknolojilerde_Guncel_Arastirmalar_Algoritmalar_Goruntu_Isleme_ve_Akilli_Uygulamalar_2026_Full_Book.pdf",
+      "pdf_url": "https://huggingface.co/MonsterMMORPG/ResearchArticles/resolve/main/Yapay_Zeka_ve_Dijital_Teknolojilerde_Guncel_Arastirmalar_Algoritmalar_Goruntu_Isleme_ve_Akilli_Uygulamalar_2026_Full_Book.pdf",
+      "doi": null,
+      "doi_url": null,
+      "doi_kind": null,
+      "doi_status": "not-confirmed-for-replacement-book",
+      "sha256": "61b5b503369a3b4015db88e90fb30e57f6a2817c3b4106a01afd22f5abe0ddf6",
       "verification_sources": [
-        "https://api.crossref.org/works/10.70269/K1D5PSKWKHPE",
-        "https://doi.org/api/handles/10.70269/K1D5PSKWKHPE"
+        "https://panel.bidgecongress.org/uploads/books/book_2247_20261028150011.pdf"
       ],
       "editor": "Eyyüp Gülbandılar",
       "publisher": "BİDGE Yayınları",
-      "isbn": "978-625-5474-47-6",
+      "isbn": null,
       "publication_date": "2026-10-25",
-      "contributed_chapter": "chapter"
+      "contributed_chapter": "chapter",
+      "page_count": 306,
+      "source_pdf_verified_on": "2026-10-28",
+      "verification_note": "The publisher replacement PDF has a temporary cover, ISBN: -, and no stated book or chapter DOI. Previous registrations refer to a different book title and page range and are excluded from the current index."
     },
     {
       "id": "istanbul_proceedings",
@@ -446,5 +450,6 @@
       "related_material": "Istanbul Congress 2026",
       "sha256": "e594278bf193b0e0078a3054718787f129b36e80f0e176978cb00b5bfd940e95"
     }
-  ]
+  ],
+  "updated_on": "2026-10-28"
 }

@@ -14,7 +14,7 @@ A curated collection of research articles, a book chapter, conference materials,
 - **16 publication entries:** 11 journal articles, 1 book chapter, 2 conference contributions, an MSc thesis, and a PhD thesis
 - The IMSEC presentation/proceedings abstract and its related journal special-issue full paper are indexed separately for the same study.
 - **Full 2026 edited book** plus the separately downloadable 34-page chapter
-- **15 distinct DOI records:** 10 journal-article DOIs, 1 chapter DOI, 2 book/proceedings DOIs, and 2 ResearchGate thesis DOIs
+- **13 distinct DOI records:** 10 journal-article DOIs, 1 proceedings-book DOI, and 2 ResearchGate thesis DOIs
 - **2 conference collections** with event-specific folders for papers, proceedings, certificates, programs, and participant records
 - Core themes: **product search**, **record linkage**, **focused web crawling**, **sentiment analysis**, **computer vision**, **generative AI**, **cyber forensics**, and **human-computer interaction**
 - Includes both **method papers** and **full-system theses** that connect crawling, normalization, matching, ranking, and evaluation
@@ -36,7 +36,7 @@ A curated collection of research articles, a book chapter, conference materials,
 
 | Year | Title | Files | Type | Venue / Source | Focus | DOI |
 |---|---|---|---|---|---|---|
-| 2026 | [Üretken Görsel Modellerin Kişiselleştirilmesinde Yeniden Üretilebilirlik ve Değerlendirme](https://huggingface.co/MonsterMMORPG/ResearchArticles/blob/main/Uretken_Gorsel_Modellerin_Kisisellestirilmesinde_Yeniden_Uretilebilirlik_ve_Degerlendirme_Furkan_Gozukara_2026.pdf) | [Chapter PDF](https://huggingface.co/MonsterMMORPG/ResearchArticles/resolve/main/Uretken_Gorsel_Modellerin_Kisisellestirilmesinde_Yeniden_Uretilebilirlik_ve_Degerlendirme_Furkan_Gozukara_2026.pdf) / [Full book PDF](https://huggingface.co/MonsterMMORPG/ResearchArticles/resolve/main/Yapay_Zekadan_Akilli_Sistemlere_Hesaplamali_Yontemler_ve_Guncel_Uygulamalar_2026_Full_Book.pdf) | Book chapter | BİDGE Yayınları; Chapter 13, pp. 288-321 | Generative visual models, personalization, reproducibility, evaluation | [10.70269/10.70269/1521921127](https://doi.org/10.70269/10.70269/1521921127) |
+| 2026 | [Üretken Görsel Modellerin Kişiselleştirilmesinde Yeniden Üretilebilirlik ve Değerlendirme](https://huggingface.co/MonsterMMORPG/ResearchArticles/blob/main/Uretken_Gorsel_Modellerin_Kisisellestirilmesinde_Yeniden_Uretilebilirlik_ve_Degerlendirme_Furkan_Gozukara_2026.pdf) | [Chapter PDF](https://huggingface.co/MonsterMMORPG/ResearchArticles/resolve/main/Uretken_Gorsel_Modellerin_Kisisellestirilmesinde_Yeniden_Uretilebilirlik_ve_Degerlendirme_Furkan_Gozukara_2026.pdf) / [Full book PDF](https://huggingface.co/MonsterMMORPG/ResearchArticles/resolve/main/Yapay_Zeka_ve_Dijital_Teknolojilerde_Guncel_Arastirmalar_Algoritmalar_Goruntu_Isleme_ve_Akilli_Uygulamalar_2026_Full_Book.pdf) | Book chapter | BİDGE Yayınları; Chapter 6, pp. 213-246 | Generative visual models, personalization, reproducibility, evaluation | Not confirmed for the replacement book |
 | 2026 | [Structure-Aware RGB Channel Reconstruction for YOLOv8-Based Oyster Mushroom Detection](https://huggingface.co/MonsterMMORPG/ResearchArticles/blob/main/Structure_Aware_RGB_Channel_Reconstruction_for_YOLOv8_Based_Oyster_Mushroom_Detection.pdf) | [PDF](https://huggingface.co/MonsterMMORPG/ResearchArticles/resolve/main/Structure_Aware_RGB_Channel_Reconstruction_for_YOLOv8_Based_Oyster_Mushroom_Detection.pdf) | Journal article | Agriculture, Vol. 16, No. 18, Article 1985 | YOLOv8, oyster mushroom detection, structural input channels | [10.3390/agriculture16181985](https://doi.org/10.3390/agriculture16181985) |
 | 2026 | [Evaluating Machine Learning Algorithms for Forecasting Residential Property Prices in Bishkek](https://huggingface.co/MonsterMMORPG/ResearchArticles/blob/main/conferences/2026-Istanbul-Congress/2026-Istanbul-Congress-Full-Paper-Evaluating-Machine-Learning-Algorithms-for-Forecasting-Residential-Property-Prices-in-Bishkek.pdf) | [PDF](https://huggingface.co/MonsterMMORPG/ResearchArticles/resolve/main/conferences/2026-Istanbul-Congress/2026-Istanbul-Congress-Full-Paper-Evaluating-Machine-Learning-Algorithms-for-Forecasting-Residential-Property-Prices-in-Bishkek.pdf) | Conference paper | 26th International Istanbul Scientific Research Congress, pp. 653-664 | Property-price forecasting, machine learning | Proceedings book: [10.30546/19023.978-9952-610-87-1.2026.100.1144.](https://doi.org/10.30546/19023.978-9952-610-87-1.2026.100.1144.) |
 | 2026 | [Directional Alignment Penalty: A Lightweight Localization Loss for Improved Bounding Box Regression in YOLOv8](https://huggingface.co/MonsterMMORPG/ResearchArticles/blob/main/Directional_Alignment_Penalty_A_Lightweight_Localization_Loss_For_Improved_Bounding_Box_Regression_In_YOLOv8.pdf) | [PDF](https://huggingface.co/MonsterMMORPG/ResearchArticles/resolve/main/Directional_Alignment_Penalty_A_Lightweight_Localization_Loss_For_Improved_Bounding_Box_Regression_In_YOLOv8.pdf) | Journal article | Applied Sciences, Vol. 16, No. 16, Article 8286 | YOLOv8 localization, precision agriculture | [10.3390/app16168286](https://doi.org/10.3390/app16168286) |
@@ -58,7 +58,7 @@ A curated collection of research articles, a book chapter, conference materials,
 
 | Year | Material | File | Type | Related work | DOI |
 |---|---|---|---|---|---|
-| 2026 | [Yapay Zekâdan Akıllı Sistemlere: Hesaplamalı Yöntemler ve Güncel Uygulamalar](https://huggingface.co/MonsterMMORPG/ResearchArticles/blob/main/Yapay_Zekadan_Akilli_Sistemlere_Hesaplamali_Yontemler_ve_Guncel_Uygulamalar_2026_Full_Book.pdf) | [PDF](https://huggingface.co/MonsterMMORPG/ResearchArticles/resolve/main/Yapay_Zekadan_Akilli_Sistemlere_Hesaplamali_Yontemler_ve_Guncel_Uygulamalar_2026_Full_Book.pdf) | Full edited book | Chapter 13, printed pp. 288-321 | [10.70269/K1D5PSKWKHPE](https://doi.org/10.70269/K1D5PSKWKHPE) |
+| 2026 | [Yapay Zekâ ve Dijital Teknolojilerde Güncel Araştırmalar: Algoritmalar, Görüntü İşleme ve Akıllı Uygulamalar](https://huggingface.co/MonsterMMORPG/ResearchArticles/blob/main/Yapay_Zeka_ve_Dijital_Teknolojilerde_Guncel_Arastirmalar_Algoritmalar_Goruntu_Isleme_ve_Akilli_Uygulamalar_2026_Full_Book.pdf) | [PDF](https://huggingface.co/MonsterMMORPG/ResearchArticles/resolve/main/Yapay_Zeka_ve_Dijital_Teknolojilerde_Guncel_Arastirmalar_Algoritmalar_Goruntu_Isleme_ve_Akilli_Uygulamalar_2026_Full_Book.pdf) | Full edited book | Chapter 6, printed pp. 213-246 | Not confirmed for the replacement book |
 | 2026 | [26th International Istanbul Scientific Research Congress on Life, Engineering, Architecture and Mathematical Sciences: Congress Proceedings Book](https://huggingface.co/MonsterMMORPG/ResearchArticles/blob/main/conferences/2026-Istanbul-Congress/2026-Istanbul-Congress-Proceedings-Book.pdf) | [PDF](https://huggingface.co/MonsterMMORPG/ResearchArticles/resolve/main/conferences/2026-Istanbul-Congress/2026-Istanbul-Congress-Proceedings-Book.pdf) | Proceedings book | Bishkek paper, printed pp. 653-664 | [10.30546/19023.978-9952-610-87-1.2026.100.1144.](https://doi.org/10.30546/19023.978-9952-610-87-1.2026.100.1144.) |
 | 2016 | [1st International Mediterranean Science and Engineering Congress (IMSEC 2016): Proceedings Book](https://huggingface.co/MonsterMMORPG/ResearchArticles/blob/main/conferences/2016-IMSEC/2016-IMSEC-Proceedings-Book.pdf) | [PDF](https://huggingface.co/MonsterMMORPG/ResearchArticles/resolve/main/conferences/2016-IMSEC/2016-IMSEC-Proceedings-Book.pdf) | Proceedings book | IMSEC abstract, printed p. 3704 | No book DOI identified |
 | 2016 | IMSEC 2016 participation certificate - Furkan Gözükara | [JPG](https://huggingface.co/MonsterMMORPG/ResearchArticles/resolve/main/conferences/2016-IMSEC/2016-IMSEC-Certificate-Furkan-Gozukara-Best-Product-Queries.jpg) | Certificate | IMSEC 2016 presentation | Not applicable |
@@ -69,9 +69,11 @@ A curated collection of research articles, a book chapter, conference materials,
 
 ## DOI Verification
 
-Checked on **October 26, 2026** against original PDF text, embedded metadata and DOI links; [Crossref](https://api.crossref.org/works?query.author=Furkan%20G%C3%B6z%C3%BCkara&rows=100); the DOI Handle registry; [ORCID](https://orcid.org/0000-0001-9379-2163); the [Mersin University publication list](https://apbs.mersin.edu.tr/profiles/278952/makaleler); publisher records; ResearchGate thesis records; DataCite; and [OpenAlex](https://api.openalex.org/works?filter=author.id:A5091733798&per-page=100). Author and title searches included Turkish and English titles and the spellings Gözükara, Gozukara, and Goezuekara. The local scan covered 19 PDFs and 973 pages, including the complete book, extracted chapter, articles, theses, and standalone conference papers; proceedings volumes were checked at the relevant paper pages.
+The DOI bibliography was checked on **October 26, 2026** against original PDF text, embedded metadata and DOI links; [Crossref](https://api.crossref.org/works?query.author=Furkan%20G%C3%B6z%C3%BCkara&rows=100); the DOI Handle registry; [ORCID](https://orcid.org/0000-0001-9379-2163); the [Mersin University publication list](https://apbs.mersin.edu.tr/profiles/278952/makaleler); publisher records; ResearchGate thesis records; DataCite; and [OpenAlex](https://api.openalex.org/works?filter=author.id:A5091733798&per-page=100). Author and title searches included Turkish and English titles and the spellings Gözükara, Gozukara, and Goezuekara. After the October 28 book replacement, the full-PDF verification inventory contains 19 PDFs and 930 pages, including the complete book, extracted chapter, articles, theses, and standalone conference papers; proceedings volumes were checked at the relevant paper pages.
 
-- **13 publisher/book DOIs** were matched to Crossref records; **2 thesis repository DOIs** were confirmed against ResearchGate publication records and registered DOI handles. ResearchGate identifiers label deposited theses, and the original institutions remain listed below.
+The replacement book and extracted chapter were checked on **October 28, 2026** against the [publisher PDF](https://panel.bidgecongress.org/uploads/books/book_2247_20261028150011.pdf). Its title, chapter number, pagination, file paths, and hashes replace the previous book record; its ISBN and book/chapter DOI remain unconfirmed.
+
+- **11 publisher/proceedings DOIs** were matched to Crossref records; **2 thesis repository DOIs** were confirmed against ResearchGate publication records and registered DOI handles. ResearchGate identifiers label deposited theses, and the original institutions remain listed below.
 - **ECCrawler:** no DOI identified in its PDF, [publisher archive](https://www.iaset.us/index.php/archives/international-journals/international-journal-of-computer-science-and-engineering?page=12), [ResearchGate publication record](https://www.researchgate.net/publication/338691823_FOCUSED_WEB_CRAWLER_DEVELOPMENT_CHALLENGES_ECCRAWLER), or the registry searches. This is an unresolved identifier, not proof that one can never be assigned.
 - **Bishkek conference paper:** the registered DOI belongs to the proceedings book. No separate paper DOI was found. The IMSEC presentation links to its related journal special-issue article, whose DOI is listed separately.
 - **Bilingual journal titles:** the document-vector and best-product-query papers are registered under their Turkish titles; their English PDF titles are retained in the index with the matching registered titles below.
@@ -129,26 +131,26 @@ Conference records are grouped by event so related papers, proceedings, certific
 
 ### 2026 - [Üretken Görsel Modellerin Kişiselleştirilmesinde Yeniden Üretilebilirlik ve Değerlendirme](https://huggingface.co/MonsterMMORPG/ResearchArticles/resolve/main/Uretken_Gorsel_Modellerin_Kisisellestirilmesinde_Yeniden_Uretilebilirlik_ve_Degerlendirme_Furkan_Gozukara_2026.pdf)
 
-**Type:** Book chapter (Chapter 13)  
+**Type:** Book chapter (Chapter 6)  
 **Author:** Furkan Gözükara  
-**Book:** *Yapay Zekâdan Akıllı Sistemlere: Hesaplamalı Yöntemler ve Güncel Uygulamalar*  
+**Book:** *Yapay Zekâ ve Dijital Teknolojilerde Güncel Araştırmalar: Algoritmalar, Görüntü İşleme ve Akıllı Uygulamalar*  
 **Editor:** Prof. Dr. Eyyüp Gülbandılar  
 **Publisher / publication date:** BİDGE Yayınları, October 25, 2026  
-**ISBN:** 978-625-5474-47-6  
-**Chapter DOI:** [10.70269/10.70269/1521921127](https://doi.org/10.70269/10.70269/1521921127)  
-**Book DOI:** [10.70269/K1D5PSKWKHPE](https://doi.org/10.70269/K1D5PSKWKHPE)  
-**Pages:** Printed pages 288-321 (34 pages); full-book PDF pages 295-328  
+**ISBN:** Not stated in the replacement PDF (`ISBN: -`)  
+**Chapter DOI:** Not confirmed for the replacement book  
+**Book DOI:** Not confirmed for the replacement book  
+**Pages:** Printed pages 213-246 (34 pages); full-book PDF pages 218-251  
 **Language:** Turkish  
 **Focus:** Generative visual-model personalization, reproducibility, evaluation, and computational cost
 
 This chapter examines DreamBooth, Textual Inversion, low-rank adaptation, and visual prompt adapters. It discusses reproducible comparisons and evaluation across subject fidelity, prompt adherence, diversity, training-image similarity, and computational cost.
 
 - [Individual chapter PDF (34 pages)](https://huggingface.co/MonsterMMORPG/ResearchArticles/resolve/main/Uretken_Gorsel_Modellerin_Kisisellestirilmesinde_Yeniden_Uretilebilirlik_ve_Degerlendirme_Furkan_Gozukara_2026.pdf)
-- [Complete edited book PDF (349 pages)](https://huggingface.co/MonsterMMORPG/ResearchArticles/resolve/main/Yapay_Zekadan_Akilli_Sistemlere_Hesaplamali_Yontemler_ve_Guncel_Uygulamalar_2026_Full_Book.pdf)
-- [Chapter within the complete book](https://huggingface.co/MonsterMMORPG/ResearchArticles/resolve/main/Yapay_Zekadan_Akilli_Sistemlere_Hesaplamali_Yontemler_ve_Guncel_Uygulamalar_2026_Full_Book.pdf#page=295)
-- [Publisher DOI record](https://panel.bidgecongress.org/doi-K1D5PSKWKHPE)
+- [Complete edited book PDF (306 pages)](https://huggingface.co/MonsterMMORPG/ResearchArticles/resolve/main/Yapay_Zeka_ve_Dijital_Teknolojilerde_Guncel_Arastirmalar_Algoritmalar_Goruntu_Isleme_ve_Akilli_Uygulamalar_2026_Full_Book.pdf)
+- [Chapter within the complete book](https://huggingface.co/MonsterMMORPG/ResearchArticles/resolve/main/Yapay_Zeka_ve_Dijital_Teknolojilerde_Guncel_Arastirmalar_Algoritmalar_Goruntu_Isleme_ve_Akilli_Uygulamalar_2026_Full_Book.pdf#page=218)
+- [Publisher replacement PDF](https://panel.bidgecongress.org/uploads/books/book_2247_20261028150011.pdf)
 
-The repeated `10.70269/` in the chapter DOI is part of its [registered identifier](https://api.crossref.org/works/10.70269/10.70269/1521921127) and is preserved exactly. The full-book PDF is unchanged; the chapter preserves the original printed pages and references.
+The replacement book was verified against the publisher PDF on October 28, 2026. It has a temporary cover, `ISBN: -`, and no stated book or chapter DOI. Earlier DOI registrations describe a different book title and pagination, so those identifiers are excluded from the current index pending publisher confirmation. The full-book bytes are preserved, and the extracted chapter preserves all 34 original pages and references.
 
 <a id="2026-structure-aware-rgb"></a>
 
